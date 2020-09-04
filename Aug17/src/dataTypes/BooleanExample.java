@@ -1,4 +1,4 @@
-package dataTypes;
+package datatypes;
 
 public class BooleanExample {
     public static void main(String args[]) {

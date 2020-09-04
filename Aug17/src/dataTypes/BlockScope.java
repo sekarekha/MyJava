@@ -1,4 +1,4 @@
-package dataTypes;
+package datatypes;
 
 public class BlockScope {
     public static void main(String args[]) {
