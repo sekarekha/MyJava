@@ -8,7 +8,7 @@ public class Cars {
         //System.out.println(cars[3]);
         //System.out.println(cars.length);
         for (i = 0; i <= cars.length; i++) {
-            System.out.println(cars[i]);
+            System.out.println(cars[2]);
         }
 
     }
