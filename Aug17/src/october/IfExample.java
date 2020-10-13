@@ -2,7 +2,7 @@ package october;
 
 public class IfExample {
     public static void main(String args[]) {
-        int age=15;
+        int age=61;
         if (age < 18) {
             System.out.println("Your Minor");
             System.out.println("Your not eligible to work");
